@@ -1,0 +1,2 @@
+# HAART
+"All in one" toolbox for impulse response acquisition, manipulation, analysis and auralisation.   HAART aims to provide audio and acoustics researchers with a quick, easy to use, all-in-one box solution for acquiring, analysing and auralising multichannel room impulse responses.  Acquisition via multi-in / multi-out setups using exponential sine sweep or maximum length sequence method. Analysis of ISO3382 and other concert hall acoustics parameters. Convolution with multi-channel RIRs for multichannel speaker setups and binaural auralisation over headphones.
